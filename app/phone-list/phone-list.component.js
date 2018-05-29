@@ -16,7 +16,7 @@ angular.
                         snippet : 'The Next, Next Generation tablet.'
                     },
                     {
-                        name : 'Motoroal XOOM™',
+                        name : 'Motorola XOOM™',
                         snippet : 'The Next, Next Generation tablet.'
                     }
                 ];
